@@ -10,8 +10,8 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['6288220195739'] //ur owner number
-global.ownernomer = "6288220195739" //ur owner number2
+global.owner = ['6289673129395'] //ur owner number
+global.ownernomer = "6289673129395" //ur owner number2
 global.ownername = "Nero" //ur owner name
 global.ytname = "Nero HOST" //ur yt chanel name
 global.socialm = "GitHub: dsnesia" //ur github or insta name
@@ -19,9 +19,9 @@ global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
 global.botname = "Fuirly Botz - MD"
-global.ownernumber = '6288220195739'
-global.ownername = '6288220195739'
-global.ownerNumber = ["6288220195739@s.whatsapp.net"]
+global.ownernumber = '6289673129395'
+global.ownername = '6289673129395'
+global.ownerNumber = ["6289673129395@s.whatsapp.net"]
 global.ownerweb = "https://www.youtube.com/channel/UCNxNmxGLP_NGCjeipQ0dHnQ"
 global.websitex = "https://www.youtube.com/channel/UCNxNmxGLP_NGCjeipQ0dHnQ"
 global.wagc = "https://chat.whatsapp.com/EzTmgJdpOCu1sDmRNWLWva"
